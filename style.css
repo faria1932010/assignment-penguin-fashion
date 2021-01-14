@@ -1,0 +1,69 @@
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+
+header{
+    background-color: #fceae8;
+}
+
+.text-navyblue{
+    color:#000249;
+}
+
+nav li{
+    padding-left: 50px;
+}
+
+nav li a{
+    font-weight: bolder;
+}
+
+.top-header{
+    font-weight: 700;
+    font-size: 3.15rem;
+}
+
+.btn-buy-now{
+    background-color: rgb(31, 172, 92);
+    border-radius: 10px;
+    color: white;
+}
+
+.jacket-card{
+    border: 0;
+    border-radius: 10px;
+}
+
+.card-img img{
+    height: 280px;
+}
+
+.card-img{
+    background-color: whitesmoke;
+    margin:20px 20px 20px 20px;
+    width: 310px;
+    border-radius: 10px;
+    border: 0;
+    padding: 20px;
+}
+
+.card-footer{
+    border: 0;
+    background-color: white;
+}
+
+.about-contact img{
+    width: 70px;
+    margin-right: 45px;
+    border-radius: 10px;
+    position: relative;
+    top: -20px;
+}
+
+form i{
+    font-size: 3.5rem;
+}
+
+footer i{
+    font-size: 2rem;
+}
